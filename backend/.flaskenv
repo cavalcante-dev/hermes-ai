@@ -1,0 +1,2 @@
+FLASK_APP=api.py:create_api
+FLASK_ENV=development
